@@ -16,13 +16,36 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38846137-a887-4844-9944-ee90f76d7167" name="Default Changelist" comment="" />
+    <list default="true" id="38846137-a887-4844-9944-ee90f76d7167" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/vendor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/pace.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/portfolio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -143,6 +166,8 @@
       <path value="$PROJECT_DIR$/vendor/laravel/framework" />
       <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
       <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/laravel/horizon" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-honeypot" />
     </include_path>
   </component>
   <component name="ProjectId" id="1kbtc6KPet731wHw0M6cBqJeo3V" />
@@ -157,6 +182,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/resources/js" />
+      <recent name="$PROJECT_DIR$/resources/css" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -173,6 +205,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605981196378</updated>
       <workItem from="1605981198179" duration="1044000" />
+      <workItem from="1605982378648" duration="21338000" />
     </task>
     <task id="LOCAL-00001" summary="Laravel + Breeze initial installation.">
       <created>1605981345436</created>
@@ -181,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605981345436</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Laravel initial installation.">
+      <created>1605982402953</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605982402953</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,18 +249,24 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Laravel + Breeze initial installation." />
-    <option name="LAST_COMMIT_MESSAGE" value="Laravel + Breeze initial installation." />
+    <MESSAGE value="Laravel initial installation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Laravel initial installation." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="399" y="30" key="CommitChangelistDialog2" timestamp="1605981345133">
+    <state x="578" y="296" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606062992428">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="399" y="30" key="CommitChangelistDialog2/0.25.1680.1025@0.25.1680.1025" timestamp="1605981345133" />
+    <state x="578" y="296" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1606062992428" />
+    <state x="399" y="25" width="831" height="1025" key="CommitChangelistDialog2" timestamp="1606063956292">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="399" y="25" width="831" height="1025" key="CommitChangelistDialog2/0.25.1680.1025@0.25.1680.1025" timestamp="1606063956292" />
     <state x="168" y="113" key="DiffContextDialog" timestamp="1605981225055">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
@@ -241,5 +287,17 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="272" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1605982375263" />
+    <state x="660" y="461" key="NewPhpFileDialog" timestamp="1605982489699">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="660" y="461" key="NewPhpFileDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1605982489699" />
+    <state x="641" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606061683605">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="641" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.1025@0.25.1680.1025" timestamp="1606061683605" />
+    <state x="505" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1606064353167">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="505" y="252" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1606064353167" />
   </component>
 </project>
