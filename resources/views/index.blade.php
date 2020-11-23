@@ -8,7 +8,7 @@
     ================================================== -->
     <meta charset="utf-8">
     <title>Full Stack Developer Portfolio | Francisco Colón</title>
-    <meta name="description" content="">
+    <meta name="description" content="I am a Fullstack developer specialized in PHP and Laravel. I have 5+ years of development experience building fullstack products from scratch, developing and integrating APIs and working with databases. Fast and self teachable learner in all areas of technology. Fluent in Spanish and English.">
     <meta name="author" content="Francisco Colón">
 
     <!-- mobile specific metas
