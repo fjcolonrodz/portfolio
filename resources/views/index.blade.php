@@ -42,7 +42,7 @@
             <a class="menu-toggle" href="#"><span>Menu</span></a>
 
             <div class="logo">
-                <a href="index.html" style="font-family: 'italic-font';">Francisco Colón</a>
+                <a href="{{ route('home') }}" style="font-family: 'italic-font';">Francisco Colón</a>
             </div>
 
             <nav id="main-nav-wrap">

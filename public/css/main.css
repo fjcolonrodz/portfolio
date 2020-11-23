@@ -1109,6 +1109,7 @@ header .logo {
 	position: relative;
 }
 header .logo a {
+    font-family: "poppins-medium", sans-serif;
     display: block;
     margin: 0;
     padding: 0;

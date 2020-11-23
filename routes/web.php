@@ -17,6 +17,6 @@ use Spatie\Honeypot\ProtectAgainstSpam;
 
 Route::get('/', function () {
     return view('index');
-});
+})->name('home');
 
 Route::post('message', [MessageController::class, 'store'])->middleware(ProtectAgainstSpam::class)->name('message.store');
