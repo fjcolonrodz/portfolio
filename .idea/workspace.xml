@@ -182,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605981196378</updated>
       <workItem from="1605981198179" duration="1044000" />
-      <workItem from="1605982378648" duration="22146000" />
+      <workItem from="1605982378648" duration="22662000" />
     </task>
     <task id="LOCAL-00001" summary="Laravel + Breeze initial installation.">
       <created>1605981345436</created>
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606064549698</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Beta 1.0.1">
+      <created>1606066559040</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606066559040</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,17 +248,18 @@
     <MESSAGE value="Laravel + Breeze initial installation." />
     <MESSAGE value="Laravel initial installation." />
     <MESSAGE value="Beta 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Beta 1" />
+    <MESSAGE value="Beta 1.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beta 1.0.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="296" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606062992428">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="578" y="296" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1606062992428" />
-    <state x="399" y="25" width="831" height="1025" key="CommitChangelistDialog2" timestamp="1606064549456">
+    <state x="399" y="25" width="831" height="1025" key="CommitChangelistDialog2" timestamp="1606066558816">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="399" y="25" width="831" height="1025" key="CommitChangelistDialog2/0.25.1680.1025@0.25.1680.1025" timestamp="1606064549456" />
+    <state x="399" y="25" width="831" height="1025" key="CommitChangelistDialog2/0.25.1680.1025@0.25.1680.1025" timestamp="1606066558816" />
     <state x="168" y="113" key="DiffContextDialog" timestamp="1605981225055">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
@@ -276,10 +284,10 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="660" y="461" key="NewPhpFileDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1605982489699" />
-    <state x="440" y="270" key="Vcs.Push.Dialog.v2" timestamp="1606066433740">
+    <state x="440" y="270" key="Vcs.Push.Dialog.v2" timestamp="1606066560974">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="440" y="270" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1606066433739" />
+    <state x="440" y="270" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1606066560974" />
     <state x="641" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606061683605">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
