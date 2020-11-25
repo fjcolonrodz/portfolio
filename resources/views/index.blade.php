@@ -85,7 +85,7 @@
                 <h1>I'm Francisco Colón.</h1>
 
                 <p class="intro-position">
-                    <span>Hello I am freelance full stack web developer in Orlando, FL.</span>
+                    <span>Hello I am a freelance full stack web developer in Orlando, FL.</span>
                     <br>
                     <span> Welcome to my portfolio !</span>
                 </p>
