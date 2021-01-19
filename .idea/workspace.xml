@@ -17,7 +17,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38846137-a887-4844-9944-ee90f76d7167" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/Francisco_Colon_CV.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
     </list>
@@ -196,7 +195,9 @@
       <workItem from="1606327128454" duration="585000" />
       <workItem from="1606579050121" duration="1000" />
       <workItem from="1611091910934" duration="16000" />
-      <workItem from="1611092839710" duration="293000" />
+      <workItem from="1611092839710" duration="634000" />
+      <workItem from="1611093661531" duration="569000" />
+      <workItem from="1611094258352" duration="129000" />
     </task>
     <task id="LOCAL-00001" summary="Laravel + Breeze initial installation.">
       <created>1605981345436</created>
@@ -282,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606327167117</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added CV">
+      <created>1611093154991</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611093154991</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,60 +333,7 @@
     <MESSAGE value="Added SEO description" />
     <MESSAGE value="Google Analytics implementation" />
     <MESSAGE value="Fixed typo intro-position" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed typo intro-position" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="578" y="296" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606062992428">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="578" y="296" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1606062992428" />
-    <state x="399" y="25" width="831" height="1025" key="CommitChangelistDialog2" timestamp="1606327166941">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="399" y="25" width="831" height="1025" key="CommitChangelistDialog2/0.25.1680.1025@0.25.1680.1025" timestamp="1606327166941" />
-    <state x="168" y="113" key="DiffContextDialog" timestamp="1605981225055">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="168" y="113" key="DiffContextDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1605981225055" />
-    <state width="1638" height="272" key="GridCell.Tab.0.bottom" timestamp="1605982375263">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1638" height="272" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1605982375263" />
-    <state width="1638" height="272" key="GridCell.Tab.0.center" timestamp="1605982375262">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1638" height="272" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1605982375262" />
-    <state width="1638" height="272" key="GridCell.Tab.0.left" timestamp="1605982375262">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1638" height="272" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1605982375262" />
-    <state width="1638" height="272" key="GridCell.Tab.0.right" timestamp="1605982375263">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1638" height="272" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1605982375263" />
-    <state x="660" y="461" key="NewPhpFileDialog" timestamp="1605982489699">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="660" y="461" key="NewPhpFileDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1605982489699" />
-    <state x="636" y="160" key="RollbackChangesDialog" timestamp="1606159186925">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="636" y="160" key="RollbackChangesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1606159186925" />
-    <state x="440" y="270" key="Vcs.Push.Dialog.v2" timestamp="1606327169239">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="440" y="270" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1606327169239" />
-    <state x="641" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606061683605">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="641" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.1025@0.25.1680.1025" timestamp="1606061683605" />
-    <state x="662" y="430" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606066431140">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="662" y="430" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1606066431140" />
-    <state x="505" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1606158571542">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="505" y="252" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1606158571542" />
+    <MESSAGE value="Added CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added CV" />
   </component>
 </project>

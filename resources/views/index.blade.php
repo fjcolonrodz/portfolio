@@ -98,9 +98,9 @@
     </div> <!-- /intro-content -->
 
     <ul class="intro-social">
-        <li><a href="https://www.facebook.com/fjcolonrodz"><i class="fa fa-facebook"></i></a></li>
-        <li><a href="https://twitter.com/fjcolonrodz"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="https://www.instagram.com/fjcolonrodz/"><i class="fa fa-instagram"></i></a></li>
+        <li><a href="https://www.facebook.com/fjcolonrodz" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://twitter.com/fjcolonrodz" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="https://www.instagram.com/fjcolonrodz/" target="_blank"><i class="fa fa-instagram"></i></a></li>
     </ul> <!-- /intro-social -->
 
 </section> <!-- /intro -->
@@ -199,7 +199,7 @@
     <div class="row button-section">
         <div class="col-twelve">
             <a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire Me</a>
-            <a href="{{ asset('Francisco_Colon_CV.pdf') }}" title="Download CV" class="button button-primary">Download CV</a>
+            <a href="{{ asset('Francisco_Colon_CV.pdf') }}" title="Download CV" class="button button-primary"  target="_blank">Download CV</a>
         </div>
     </div>
 
@@ -818,9 +818,9 @@
         <div class="col-six tab-full pull-right social">
 
             <ul class="footer-social">
-                <li><a href="https://www.facebook.com/fjcolonrodz"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="https://twitter.com/fjcolonrodz"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="https://www.instagram.com/fjcolonrodz/"><i class="fa fa-instagram"></i></a></li>
+                <li><a href="https://www.facebook.com/fjcolonrodz" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://twitter.com/fjcolonrodz" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="https://www.instagram.com/fjcolonrodz/" target="_blank"><i class="fa fa-instagram"></i></a></li>
             </ul>
 
         </div>
