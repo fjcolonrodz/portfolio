@@ -17,6 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38846137-a887-4844-9944-ee90f76d7167" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/Francisco_Colon_CV.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
     </list>
@@ -158,12 +159,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images/portfolio" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images/portfolio" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/resources/js" />
@@ -188,7 +193,10 @@
       <workItem from="1605982378648" duration="22662000" />
       <workItem from="1606157766134" duration="1993000" />
       <workItem from="1606257200407" duration="765000" />
-      <workItem from="1606327128454" duration="17000" />
+      <workItem from="1606327128454" duration="585000" />
+      <workItem from="1606579050121" duration="1000" />
+      <workItem from="1611091910934" duration="16000" />
+      <workItem from="1611092839710" duration="293000" />
     </task>
     <task id="LOCAL-00001" summary="Laravel + Breeze initial installation.">
       <created>1605981345436</created>
@@ -267,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606257862114</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Fixed typo intro-position">
+      <created>1606327167117</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606327167117</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,17 +324,18 @@
     <MESSAGE value="Updated home URL" />
     <MESSAGE value="Added SEO description" />
     <MESSAGE value="Google Analytics implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Google Analytics implementation" />
+    <MESSAGE value="Fixed typo intro-position" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed typo intro-position" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="296" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606062992428">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="578" y="296" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1606062992428" />
-    <state x="399" y="25" width="831" height="1025" key="CommitChangelistDialog2" timestamp="1606257861969">
+    <state x="399" y="25" width="831" height="1025" key="CommitChangelistDialog2" timestamp="1606327166941">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="399" y="25" width="831" height="1025" key="CommitChangelistDialog2/0.25.1680.1025@0.25.1680.1025" timestamp="1606257861969" />
+    <state x="399" y="25" width="831" height="1025" key="CommitChangelistDialog2/0.25.1680.1025@0.25.1680.1025" timestamp="1606327166941" />
     <state x="168" y="113" key="DiffContextDialog" timestamp="1605981225055">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
@@ -348,10 +364,10 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="636" y="160" key="RollbackChangesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1606159186925" />
-    <state x="440" y="270" key="Vcs.Push.Dialog.v2" timestamp="1606257864192">
+    <state x="440" y="270" key="Vcs.Push.Dialog.v2" timestamp="1606327169239">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="440" y="270" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1606257864192" />
+    <state x="440" y="270" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1606327169239" />
     <state x="641" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606061683605">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
