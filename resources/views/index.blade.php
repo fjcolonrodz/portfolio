@@ -152,7 +152,7 @@
                 </li>
                 <li>
                     <strong>Website:</strong>
-                    <span>www.fjcolon.com</span>
+                    <span>https://fjcolon.dev</span>
                 </li>
                 <li>
                     <strong>Email:</strong>
@@ -518,8 +518,24 @@
 
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
-                        <img src="{{ asset('images/portfolio/wonderens.jpg') }}" alt="Wonderens Foods">
+                        <img src="{{ asset('images/portfolio/micarrerapr.jpg') }}" alt="MiCarreraPR">
                         <a href="#modal-02" class="overlay">
+                            <div class="folio-item-table">
+                                <div class="folio-item-cell">
+                                    <h3 class="folio-title">MiCarreraPR</h3>
+                                    <span class="folio-types">
+                                        Events Management System
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div> <!-- /folio-item -->
+
+                <div class="bgrid folio-item">
+                    <div class="item-wrap">
+                        <img src="{{ asset('images/portfolio/wonderens.jpg') }}" alt="Wonderens Foods">
+                        <a href="#modal-03" class="overlay">
                             <div class="folio-item-table">
                                 <div class="folio-item-cell">
                                     <h3 class="folio-title">Woonderens Foods</h3>
@@ -535,7 +551,7 @@
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
                         <img src="{{ asset('images/portfolio/panawest.jpg') }}"alt="Panawest">
-                        <a href="#modal-03" class="overlay">
+                        <a href="#modal-04" class="overlay">
                             <div class="folio-item-table">
                                 <div class="folio-item-cell">
                                     <h3 class="folio-title">Panawest</h3>
@@ -551,7 +567,7 @@
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
                         <img src="{{ asset('images/portfolio/uprm.jpg') }}" alt="UPRM">
-                        <a href="#modal-04" class="overlay">
+                        <a href="#modal-05" class="overlay">
                             <div class="folio-item-table">
                                 <div class="folio-item-cell">
                                     <h3 class="folio-title">University of Puerto Rico, Mayagüez Campus</h3>
@@ -567,7 +583,7 @@
                 <div class="bgrid folio-item">
                     <div class="item-wrap">
                         <img src="{{ asset('images/portfolio/5kcandelcoop.jpg') }}" alt="5kCandelCoop">
-                        <a href="#modal-05" class="overlay">
+                        <a href="#modal-06" class="overlay">
                             <div class="folio-item-table">
                                 <div class="folio-item-cell">
                                     <h3 class="folio-title">5kCandelCoop</h3>
@@ -606,6 +622,26 @@
                 <div id="modal-02" class="popup-modal slider mfp-hide">
 
                     <div class="media">
+                        <img src="{{ asset('images/portfolio/modals/micarrerpr.jpg') }}" alt="" />
+                    </div>
+
+                    <div class="description-box">
+                        <h4>TravelClick, an Amadeus Company</h4>
+                        <p>Design and develop an events management system focused in pedestrian races (5k's, 10k's). The system handles the registration process (including payment processing), athlete management, and data exports to be used in time tracking systems.</p>
+
+                        <div class="categories">HTML5, CSS3, PHP, LARAVEL, MYSQL, PAYMENT GATEWAY INTEGRATION</div>
+                    </div>
+
+                    <div class="link-box">
+                        <a href="https://micarrerapr.com" target="_blank">Visit website</a>
+                        <a href="#" class="popup-modal-dismiss">Close</a>
+                    </div>
+
+                </div> <!-- /modal-02 -->
+
+                <div id="modal-03" class="popup-modal slider mfp-hide">
+
+                    <div class="media">
                         <img src="{{ asset('images/portfolio/modals/wonderens.jpg') }}" alt="" />
                     </div>
 
@@ -621,9 +657,9 @@
                         <a href="#" class="popup-modal-dismiss">Close</a>
                     </div>
 
-                </div> <!-- /modal-02 -->
+                </div> <!-- /modal-03 -->
 
-                <div id="modal-03" class="popup-modal slider mfp-hide">
+                <div id="modal-04" class="popup-modal slider mfp-hide">
 
                     <div class="media">
                         <img src="{{ asset('images/portfolio/modals/panawest.jpg') }}" alt="" />
@@ -641,9 +677,9 @@
                         <a href="#" class="popup-modal-dismiss">Close</a>
                     </div>
 
-                </div> <!-- /modal-03 -->
+                </div> <!-- /modal-04 -->
 
-                <div id="modal-04" class="popup-modal slider mfp-hide">
+                <div id="modal-05" class="popup-modal slider mfp-hide">
 
                     <div class="media">
                         <img src="{{ asset('images/portfolio/modals/uprm.jpg') }}" alt="" />
@@ -666,9 +702,9 @@
                         <a href="#" class="popup-modal-dismiss">Close</a>
                     </div>
 
-                </div> <!-- /modal-04 -->
+                </div> <!-- /modal-05 -->
 
-                <div id="modal-05" class="popup-modal slider mfp-hide">
+                <div id="modal-06" class="popup-modal slider mfp-hide">
 
                     <div class="media">
                         <img src="{{ asset('images/portfolio/modals/5kcandelcoop.jpg') }}" alt="" />
@@ -686,7 +722,7 @@
                         <a href="#" class="popup-modal-dismiss">Close</a>
                     </div>
 
-                </div> <!-- /modal-05 -->
+                </div> <!-- /modal-06 -->
 
                 <!-- modal popups - end
              ============================================================= -->
